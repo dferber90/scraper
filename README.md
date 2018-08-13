@@ -1,2 +1,0 @@
-# scraper
-Created with CodeSandbox
